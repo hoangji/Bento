@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'good night session!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'lfu',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://lfuonline.uibk.ac.at/public/lfuonline.home',
 		},
 		{
 			id: '4',
@@ -77,12 +77,6 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
-		},
-		{
-			id: '6',
 			name: 'youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
@@ -135,24 +129,20 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'trello',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'lfu',
+					link: 'https://lfuonline.uibk.ac.at/public/lfuonline.home',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'olat',
+					link: 'https://lms.uibk.ac.at/dmz/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'mail',
+					link: 'https://web-mail.uibk.ac.at/imp/login.php',
 				},
 			],
 		},
@@ -161,12 +151,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'lofi',
+					link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'github',
+					link: 'https://github.com/hoangji',
 				},
 				{
 					name: 'Trello',
