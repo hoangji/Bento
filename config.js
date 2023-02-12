@@ -137,16 +137,16 @@ const CONFIG = {
 					link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'focus',
+					link: 'https://www.youtube.com/watch?v=jvM9AfAzoSo',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'dance',
+					link: 'https://www.youtube.com/watch?v=fKvMhydlXmI',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'relax',
+					link: 'https://www.youtube.com/watch?v=PHklnuOvxfg',
 				},
 			],
 		},
@@ -155,20 +155,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'github',
+					link: 'https://github.com/hoangji',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'calendar',
+					link: 'https://calendar.google.com/calendar/r',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'drive',
+					link: 'https://drive.google.com/drive/my-drive',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'coffee benefits',
+					link: 'https://www.nytimes.com/2020/02/13/style/self-care/coffee-benefits.html',
 				},
 			],
 		},
@@ -181,42 +181,42 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'lfu',
+					link: 'https://lfuonline.uibk.ac.at/public/lfuonline.home',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'olat',
+					link: 'https://lms.uibk.ac.at/dmz/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'latex',
+					link: 'https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'typefu',
+					link: 'https://type-fu.com/app',
 				},
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'mails',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'gmail',
+					link: 'https://mail.google.com/mail/u/0/',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'outlook',
+					link: 'https://outlook.live.com/mail/0/',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'proton',
+					link: 'https://mail.proton.me/u/0/inbox',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'uni-mail',
+					link: 'https://web-mail.uibk.ac.at/imp/login.php',
 				},
 			],
 		},
