@@ -132,18 +132,22 @@ const CONFIG = {
 			icon: 'music',
 			id: '1',
 			links: [
-					{
-					name: 'lfu',
-					link: 'https://lfuonline.uibk.ac.at/public/lfuonline.home',
-					},
-					{
-					name: 'olat',
-					link: 'https://lms.uibk.ac.at/dmz/',
-					},
-					{
-					name: 'mail',
-					link: 'https://web-mail.uibk.ac.at/imp/login.php',
-					},
+				{
+					name: 'Inspirational',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Classic',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Oldies',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Rock',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
 			],
 		},
 		{
@@ -151,12 +155,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'lofi',
-					link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'github',
-					link: 'https://github.com/hoangji',
+					name: 'Dribbble',
+					link: 'https://www.dribbble.com',
 				},
 				{
 					name: 'Trello',
