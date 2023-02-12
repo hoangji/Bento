@@ -32,7 +32,7 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.77547.2692',
+	defaultLatitude: '47.2692',
 	defaultLongitude: '11.4041',
 
 	// Autochange
@@ -129,21 +129,21 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'trello',
+			icon: 'music',
 			id: '1',
 			links: [
-				{
+					{
 					name: 'lfu',
 					link: 'https://lfuonline.uibk.ac.at/public/lfuonline.home',
-				},
-				{
+					},
+					{
 					name: 'olat',
 					link: 'https://lms.uibk.ac.at/dmz/',
-				},
-				{
+					},
+					{
 					name: 'mail',
 					link: 'https://web-mail.uibk.ac.at/imp/login.php',
-				},
+					},
 			],
 		},
 		{
